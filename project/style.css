@@ -57,12 +57,12 @@ body {
   
   .task .title {
     font-weight: bold;
-    font-size: 1.2rem; /* Increase the font size for the title */
+    font-size: 1.2rem; 
     margin-bottom: 5px;
   }
   
   .task .description {
-    font-size: 1rem; /* Decrease the font size for the description */
+    font-size: 1rem; 
     color: #666666;
   }
   
